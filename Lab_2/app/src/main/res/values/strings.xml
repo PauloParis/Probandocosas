@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab_2</string>
+    <string name="txt_Nombre1_String">Ingrese Nombre</string>
+    <string name="txt_Nombre2_String">Nombre</string>
+    <string name="btn_IR">IR A LA SIGUIENTE PANTALLA</string>
+    <string name="btn_VOLVER">REGRESAR</string>
+
+</resources>

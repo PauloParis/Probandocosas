@@ -1,0 +1,15 @@
+Integrantes:
+
+Paulo Gutiérrez Paris
+Daniel Bustamente Diaz
+<<<<<<< HEAD
+=======
+
+Descripción:
+
+En la primera Activity como elemento personalizable se pide ingresar 2 numeros para realizar una suma. Además, esta activity cuenta con una imagen.
+Para observar el resultado de la suma, se debe presionar el boton siguiente, el cual llevará a la actividad 2
+En la segunda activity como elemento pesonlizable se tiene el resultado de la suma, además de contar tambien con una imagen.
+
+Nota: El programa cuenta con los elementos onResume, onPause, onStop, onDestroy -> para ver el estado de los 2 activity.
+>>>>>>> d1f2abe (Laboratorio 3)
